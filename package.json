@@ -1,0 +1,28 @@
+{
+  "name": "alchemyhelloworld",
+  "version": "1.0.0",
+  "description": "tutorial to scope out use of alchemy platform rather than/in addition to own node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronbushell1984/alchemyHelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronbushell1984/alchemyHelloWorld/issues"
+  },
+  "homepage": "https://github.com/aaronbushell1984/alchemyHelloWorld#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}
